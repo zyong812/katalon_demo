@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_try_catch_failed_status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1cc5b70-6761-404e-9441-c85321028c86</testCaseGuid>
+</TestCaseEntity>

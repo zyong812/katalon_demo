@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_lsb</name>
+   <tag></tag>
+   <elementGuidId>a5d1caeb-e223-45a5-9fd9-b81a4511a1d1</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Google 搜索</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsb</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sbtc&quot;)/div[@class=&quot;gstl_0 sbdd_a&quot;]/div[2]/div[@class=&quot;sbdd_b&quot;]/div[@class=&quot;sbsb_a&quot;]/ul[@class=&quot;sbsb_b&quot;]/li[@class=&quot;gsfs&quot;]/div[@class=&quot;sbsb_g&quot;]/span[@class=&quot;ds&quot;]/span[@class=&quot;lsbb&quot;]/input[@class=&quot;lsb&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
