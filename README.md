@@ -1,3 +1,3 @@
 # katalon_demo
 
-Test some problem for Katalon studio
+Test some problems for Katalon studio
