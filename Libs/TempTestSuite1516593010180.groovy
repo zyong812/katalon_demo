@@ -15,7 +15,7 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 
 def static runTestCase_0() {
-    TestCaseMain.runTestCase('Test Cases/TC_no_html_report', new TestCaseBinding('Test Cases/TC_no_html_report',  null), FailureHandling.STOP_ON_FAILURE)
+    TestCaseMain.runTestCase('Test Cases/TC_try_catch_failed_status', new TestCaseBinding('Test Cases/TC_try_catch_failed_status',  null), FailureHandling.STOP_ON_FAILURE)
     
 }
 
@@ -23,9 +23,9 @@ def static runTestCase_0() {
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
 
-suiteProperties.put('id', 'Test Suites/demo1')
+suiteProperties.put('id', 'Test Suites/try_catch_failed_status')
 
-suiteProperties.put('name', 'demo1')
+suiteProperties.put('name', 'try_catch_failed_status')
 
 suiteProperties.put('description', '')
  
@@ -35,13 +35,13 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.m
 
 
 
-RunConfiguration.setExecutionSettingFile("/Users/yong/Katalon Studio/katalon_demo/Reports/demo1/20180122_102406/execution.properties")
+RunConfiguration.setExecutionSettingFile("/Users/yong/Katalon Studio/katalon_demo/Reports/try_catch_failed_status/20180122_115009/execution.properties")
 
 TestCaseMain.beforeStart()
 
-KeywordLogger.getInstance().startSuite('demo1', suiteProperties)
+KeywordLogger.getInstance().startSuite('try_catch_failed_status', suiteProperties)
 
-TestCaseMain.invokeStartSuite('Test Suites/demo1')
+TestCaseMain.invokeStartSuite('Test Suites/try_catch_failed_status')
 
 (0..0).each {
     "runTestCase_${it}"()
@@ -49,6 +49,6 @@ TestCaseMain.invokeStartSuite('Test Suites/demo1')
 
 DriverCleanerCollector.getInstance().cleanDrivers()
 
-TestCaseMain.invokeEndSuite('Test Suites/demo1')
+TestCaseMain.invokeEndSuite('Test Suites/try_catch_failed_status')
 
-KeywordLogger.getInstance().endSuite('demo1', null)
+KeywordLogger.getInstance().endSuite('try_catch_failed_status', null)

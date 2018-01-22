@@ -4,7 +4,7 @@
    <name>try_catch_failed_status</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-01-22T10:34:03</lastRun>
+   <lastRun>2018-01-22T11:50:09</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+try_catch_failed_status,Chrome 63.0.3239.132,,2018-01-22 11:50:11,2018-01-22 11:50:47,35.947s,FAILED
+,,,,,,
+Test Cases/TC_try_catch_failed_status,Chrome 63.0.3239.132,,2018-01-22 11:50:11,2018-01-22 11:50:47,35.651s,FAILED
+openBrowser,Chrome 63.0.3239.132,,2018-01-22 11:50:11,2018-01-22 11:50:13,1.714s,PASSED
+Statement - Try,Chrome 63.0.3239.132,,2018-01-22 11:50:13,2018-01-22 11:50:44,31.099s,FAILED
+Statement - Catch (Exception e),Chrome 63.0.3239.132,,2018-01-22 11:50:44,2018-01-22 11:50:44,0.008s,PASSED
+navigateToUrl,Chrome 63.0.3239.132,,2018-01-22 11:50:44,2018-01-22 11:50:45,0.896s,PASSED
+setText,Chrome 63.0.3239.132,,2018-01-22 11:50:45,2018-01-22 11:50:45,0.155s,PASSED
+click,Chrome 63.0.3239.132,,2018-01-22 11:50:45,2018-01-22 11:50:47,1.363s,PASSED
+closeBrowser,Chrome 63.0.3239.132,,2018-01-22 11:50:47,2018-01-22 11:50:47,0.120s,PASSED
